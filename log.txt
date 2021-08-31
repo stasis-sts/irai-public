@@ -1,0 +1,84 @@
+//   irai-discord 1.0   \\
+//       IMMEDIATE      \\
+//         RISK         \\
+//      ARTIFICIAL      \\
+//     INTELLIGENCE     \\
+//   discord framework  \\
+
+
+//     CONTACT INFO     \\
+
+Mobile phone number - WhatsApp: +57 3136989129 - Status: Active
+e-mail: sadantium@outlook.com - sadantium@gmail.com - Status: Active
+Facebook: https://www.facebook.com/st4sis - Status: Unknown
+Twitter: https://twitter.com/sta_sis - Status: Active
+Instagram: https://www.instagram.com/_.stasis/ - Status: Active
+Discord: stasis#3333 as of 31/08/2021 - Status: Active
+Address: Carrera 8F #11A-32, Montería, Colombia
+Address additional info: Entre Mercado del Sur y Colegio Comfacor, parte trasera
+
+<|  PLEASE TAKE INTO ACCOUNT THAT THESE MAY OR MAY NOT BE DEACTIVATED   |>
+<|    DO NOT CONTACT ANY RELATIVE BEFORE VERIFYING USER'S INTEGRITY     |>
+
+//   LOG STARTS HERE    \\
+
+- core -
+magicswitch
+//              YOU CAN IGNORE FROM HERE              \\
+31/08/2021 15:25    loading irai-framework... READY
+31/08/2021 15:25    loading irai-main... READY
+31/08/2021 15:28    loading maps.log... Done! Raw text conversion complete maps.txt
+31/08/2021 15:30    loading iraianalytics.log... Done! Raw text conversion complete iraianalytics.txt
+31/08/2021 16:00    loading smhighalert.log... Done! Raw text conversion complete smhighalert.log
+31/08/2021 16:02    generating new log file... Done! log.txt
+31/08/2021 16:02    sending to aws... Done!
+31/08/2021 16:03    sending to github... Done!
+31/08/2021 16:03    loading irai-discord... ERROR: MAIN SERVER NOT FOUND
+31/08/2021 16:03    calling irai-main.discordUsageAnalytics()
+31/08/2021 16:05    found server with highest message count: shire
+31/08/2021 16:05    attempting oauthv2... DONE
+31/08/2021 16:06    LOGGED IN 'SHIRE' GUILD - MEMBER COUNT 96
+31/08/2021 16:18    ERROR: UNAUTHORIZED SLASH COMMANDS. Attempting new OAuthV2.
+31/08/2021 16:20    attempting oauthv2... DONE
+31/08/2021 16:20    LOGGED IN 'SHIRE' GUILD - MEMBER COUNT 96
+31/08/2021 16:29    UPDATING IRAI-DISCORD ROLES... DONE
+31/08/2021 16:30    calling irai-main.startup().hraConfirmationAnalysis()...
+31/08/2021 16:49    analyzing messages, behaviour patterns...
+//                    TO HERE                        \\
+
+-------------------------------------------------------------------------------------------
+31/08/2021 17:20    HIGH RISK ALERT CONFIRMED: MDD DETECTED THROUGH SOCIAL INTERACTIONS
+31/08/2021 17:21    NEW HIGH RISK ALERT: 1 SOCIAL INTERACTIONS FOUND IN 3 HOURS - DISCORD
+31/08/2021 17:21    NEW HIGH RISK ALERT: ABRUPT BEHAVIOUR CHANGES - NO CELL PHONE USAGE - MID PRIORITY
+31/08/2021 17:21    NEW HIGH RISK ALERT: ABRUPT BEHAVIOUR CHANGES - MISSING CALLS - HIGH PRIORITY
+31/08/2021 17:21    NEW HIGH RISK ALERT: ABRUPT BEHAVIOUR CHANGES - UNREAD MESSAGES - HIGH PRIORITY
+31/08/2021 17:21    irai.main - exec().log()
+31/08/2021 17:30    Finished log. Analyzing potential priority users.
+--------------------------------- END OF LOG ----------------------------------------------
+- core end -
+
+IRAI - Immediate Risk Artificial Intelligence 1.3 Report 17:50 31/08/2021
+
+WARNING - User may be in physical or mental risk
+IRAI Analytics found that user Samuel Arroyo (stasis) may be in potential risk.
+Please try to contact the user through any means, but please try to follow these guidelines:
+
+- Spam messages through Discord, WhatsApp, etc.
+- Spam cell phone calls
+- Try physical contact; please go to CONTACT INFO > Address
+- As a last resource, contact relatives who may be close to the user.
+
+If none of the steps above work, PLEASE SEEK IMMEDIATE HELP.
+TAKE THIS MESSAGE SERIOUSLY.
+
+Additional info:
+
+Medications - Desvenlafaxine 50 mg taken by mouth at morning after eating, Trazodone 50 mg taken by mouth before going to sleep
+Favourite food - Pasta (almost any type), chicken, chocolate, vanilla ice cream, fruits.
+Favourite drinks - Smoothies, watermelon juice, water.
+Behaviour - Isolated, independent, strong sense of duty and high risk of self-immolation.
+
+Please proceed with caution. If you recieved this message it's because the user
+thinks you're capable enough of helping.
+
+Kind regards, IRAI.
