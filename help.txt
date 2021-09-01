@@ -1,0 +1,9 @@
+IRAI Discord Framework 1.3
+
+Slash commands:
+
+/contact - Outputs stasis' contact info.
+/report - Outputs IRAI's latest report.
+/status - Outputs stasis' current health status.
+/log - Outputs IRAI's latest log.
+/github - Outputs IRAI's public github repository.
